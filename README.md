@@ -1,5 +1,8 @@
-# Data Analytics Portfolio
+# Kelechi's Data Analytics Portfolio
 
+I am an aspiring Data Analyst with a strong focus on Excel, data cleaning, and data visualization. 
+
+This portfolio showcases my internship work and projects where I analyze data and turn it into meaningful insights.
 Hi, I’m building my skills in data analytics and data visualization.
 
 This repository contains my internship work and personal projects where I applied data cleaning, analysis, and dashboard creation.
