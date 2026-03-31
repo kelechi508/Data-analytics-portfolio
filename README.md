@@ -53,4 +53,21 @@ These visuals showcase the interactive dashboard built to analyze applicant tren
 
 ---
 
-## 🚀 More Projects Coming Soon
+---
+
+## 📁 Personal Projects
+
+### Customer Data Cleaning
+- Cleaned raw customer dataset using Excel
+- Handled missing values, duplicates, and formatting issues
+- Documented the data cleaning process
+
+### Retail Sales Trends Analysis
+- Analyzed sales trends over time
+- Identified patterns based on time and performance
+- Generated insights from the dataset
+
+### Sales Performance Dashboard
+- Built an interactive Excel dashboard
+- Visualized key sales metrics
+- Designed charts for easy understanding
