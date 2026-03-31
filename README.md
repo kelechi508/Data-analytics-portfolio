@@ -72,6 +72,7 @@ Built an interactive Excel dashboard to analyze sales performance and track key 
 ### Outcome
 - Improved visibility into sales performance
 - Enabled better understanding of trends and key metrics
+![Sales Dashboard](Personal-Projects/Sales-Dashboard/dashboard.png)
   
 ## 📁 Personal Projects
 
