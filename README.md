@@ -56,22 +56,33 @@ These visuals showcase the interactive dashboard built to analyze applicant tren
 ---
 ---
 
+---
+
 ## ⭐ Featured Project: Sales Performance Dashboard
 
-### Overview
-Built an interactive Excel dashboard to analyze sales performance and track key business metrics.
+### 📌 Problem
+Businesses often struggle to track sales performance and identify trends quickly from raw data.
 
-### Key Features
-- Interactive dashboard with charts and visuals
-- Clear presentation of sales trends and performance
-- Easy-to-understand layout for decision-making
+### 📊 Approach
+- Cleaned and structured the dataset in Excel  
+- Analyzed sales trends and key performance metrics  
+- Built an interactive dashboard for easy visualization  
 
-### Tools Used
-- Microsoft Excel
+### 📈 Key Insights
+- Identified top-performing periods and sales patterns  
+- Highlighted areas with lower performance  
+- Made it easier to track KPIs at a glance  
 
-### Outcome
-- Improved visibility into sales performance
-- Enabled better understanding of trends and key metrics
+### 🛠 Tools Used
+- Microsoft Excel  
+
+### ✅ Outcome
+- Created a clear and interactive dashboard  
+- Improved visibility into sales performance  
+- Enabled better decision-making  
+
+### 📸 Dashboard Preview
+
 ![Sales Dashboard](Personal-Projects/Sales-Dashboard/sales-dashboard.png)
   
 ## 📁 Personal Projects
