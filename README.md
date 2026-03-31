@@ -24,6 +24,7 @@ This section contains my weekly deliverables from my 1-month Data Visualization 
 - Created a design document
 - Generated insights and recommendations
 ### Dashboard Preview
+These visuals showcase the interactive dashboard built to analyze applicant trends, program performance, and outreach effectiveness.
 
 ![Dashboard Main](Internship-Excelerate/Week-3/dashboard-main.png)
 
