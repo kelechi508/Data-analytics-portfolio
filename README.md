@@ -31,11 +31,11 @@ This section contains my weekly deliverables from my 1-month Data Visualization 
 
 ![Dashboard KPIs](Internship-Excelerate/Week-3/dashboard-KPIs.png)
 
-![Applicants Chart](Internship-Excelerate/Week-3/applicants charts.png)
+![Applicants Chart](Internship-Excelerate/Week-3/applicants-charts.png)
 
-![Admission Outcome](Internship-Excelerate/Week-3/admission outcome chart.png)
+![Admission Outcome](Internship-Excelerate/Week-3/admission-outcome-chart.png)
 
-![Outreach Volume](Internship-Excelerate/Week-3/outreach volume chart.png)
+![Outreach Volume](Internship-Excelerate/Week-3/outreach-volume-chart.png)
 
 ### Week 4
 - Final report and presentation
